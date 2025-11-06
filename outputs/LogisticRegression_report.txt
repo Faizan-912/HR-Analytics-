@@ -1,0 +1,12 @@
+LogisticRegression Evaluation Report
+Accuracy: 0.7483
+ROC AUC: 0.7988
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.77      0.84       247
+           1       0.34      0.62      0.44        47
+
+    accuracy                           0.75       294
+   macro avg       0.63      0.70      0.64       294
+weighted avg       0.82      0.75      0.77       294

@@ -1,0 +1,12 @@
+DecisionTree Evaluation Report
+Accuracy: 0.7721
+ROC AUC: 0.6517
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.82      0.86       247
+           1       0.36      0.53      0.43        47
+
+    accuracy                           0.77       294
+   macro avg       0.63      0.67      0.64       294
+weighted avg       0.81      0.77      0.79       294
